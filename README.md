@@ -1,5 +1,5 @@
 # Data Portfolio
 
-This is my portfolio wesite!
+This is my portfolio website!
 
 😎💭
